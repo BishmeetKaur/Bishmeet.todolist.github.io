@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bishmeet.todolist.github.io/static/css/main.d305f1b5.css",
+    "main.js": "/bishmeet.todolist.github.io/static/js/main.bedd9613.js",
+    "static/js/787.d610e84f.chunk.js": "/bishmeet.todolist.github.io/static/js/787.d610e84f.chunk.js",
+    "index.html": "/bishmeet.todolist.github.io/index.html",
+    "main.d305f1b5.css.map": "/bishmeet.todolist.github.io/static/css/main.d305f1b5.css.map",
+    "main.bedd9613.js.map": "/bishmeet.todolist.github.io/static/js/main.bedd9613.js.map",
+    "787.d610e84f.chunk.js.map": "/bishmeet.todolist.github.io/static/js/787.d610e84f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d305f1b5.css",
+    "static/js/main.bedd9613.js"
+  ]
+}
